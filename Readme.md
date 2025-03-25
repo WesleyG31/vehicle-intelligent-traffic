@@ -4,6 +4,12 @@ An end-to-end **vehicle detection and traffic monitoring system** powered by **C
 
 Deployed with **Streamlit** and hosted via **Hugging Face Spaces** using a custom **Docker** environment.
 
+
+## 📽️ Demo
+
+📽️ [YouTube](https://youtu.be/OcbyjACjOKw)
+
+
 ---
 
 ## 📸 What it Does
