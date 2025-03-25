@@ -1,0 +1,14 @@
+frame,id,clase,speed_kph,violation,position,plate
+33,17,car,50,True,"(67, 575)",cant be read
+50,25,car,52,True,"(67, 672)",cant be read
+51,25,car,50,True,"(70, 632)",cant be read
+52,25,car,51,True,"(72, 592)",cant be read
+53,25,car,52,True,"(73, 554)",cant be read
+93,48,car,51,True,"(553, 381)",cant be read
+103,49,cell phone,52,True,"(85, 578)",cant be read
+140,72,car,55,True,"(541, 473)",cant be read
+155,73,car,50,True,"(352, 631)",cant be read
+198,83,cell phone,51,True,"(301, 665)",cant be read
+199,83,cell phone,54,True,"(299, 625)",cant be read
+200,83,cell phone,53,True,"(297, 586)",cant be read
+201,83,cell phone,51,True,"(294, 551)",cant be read
