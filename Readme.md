@@ -24,12 +24,12 @@ Deployed with **Streamlit** and hosted via **Hugging Face Spaces** using a custo
 | Component       | Tech Stack                        |
 |----------------|------------------------------------|
 | Object Detection | YOLOv8 (Ultralytics)              |
-| Tracking         | Built-in Tracker / DeepSORT       |
+| Tracking         | YOLOv8 (Ultralytics)              |
 | Speed Estimation | OpenCV + Perspective Geometry     |
 | OCR              | EasyOCR                           |
 | Dashboard        | Streamlit                         |
 | Deployment       | Hugging Face Spaces + Docker      |
-| Visualization    | Matplotlib, Seaborn               |
+| Visualization    | Matplotlib                        |
 | Report Generation| FPDF                              |
 
 ---
@@ -84,7 +84,7 @@ streamlit run streamlit_app.py
 
 ## 🌐 Try the Live Demo
 
-> [![Hugging Face Space](https://img.shields.io/badge/🚀%20Try%20on-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/your-username/vehicle-intelligent-traffic)
+> [![Hugging Face Space](https://img.shields.io/badge/🚀%20Try%20on-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/WesleyGonzales/vehicle-intelligent-traffic)
 
 No installation required. Just open the link and upload a traffic video!
 
@@ -122,12 +122,12 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**[Your Full Name]**  
+**[Wesley Gonzales]**  
 Computer Vision & AI Engineer  
-📫 [your.email@example.com]  
-🔗 [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📫 [wes.gb31@gmail.com]  
+🔗 [https://www.linkedin.com/in/wesleygb/](https://www.linkedin.com/in/wesleygb/)  
 🌐 [yourportfolio.com](https://yourportfolio.com)
-
+🤖 [My Github](https://github.com/WesleyG31)
 ---
 
 ## 🪪 License
